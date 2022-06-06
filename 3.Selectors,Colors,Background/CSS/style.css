@@ -1,0 +1,90 @@
+#First{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    padding: 15rem 0;
+    background-position: center;
+    background-size: cover;
+}
+
+#First h1{
+    font-size: 88px;
+    color: #212529;
+}
+
+#First h3{
+    font-size: 30px;
+    color: #212529;
+    margin-bottom: 50px;
+
+}
+
+#First a{
+    background-color: #1D809F;
+    padding: 25px 45px;
+    text-decoration: none;
+    color: #fff;
+    font-size: bold;
+    border-radius: 10px;
+    transition: 0.5 sn;
+}
+
+#First a:hover{
+    background-color: #083340;
+}
+
+
+#Second{
+    text-align: center;
+    padding: 200px;
+}
+
+#Second h2{
+font-size: 30px;
+font-family: sans-serif;}
+
+#Second p{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-bottom: 65px;
+}
+
+#Second .offer{
+    background-image: #fff;
+    text-decoration: none;
+    border: 1px solid  #212529 ;
+    background-color: #212529;
+    border-radius: 5px;
+    padding: 20px 40px;
+    color: #fff;
+    transition: .5s;
+    
+}
+#Second .offer:hover{
+    background-color: rgb(77, 75, 75);
+    
+}
+
+#Third {
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 15rem 0 ;
+    background-position: center;
+    background-size: cover ; 
+}
+
+#Third h1{
+    font-size: 85px;
+    color: #212529;
+    margin-bottom: 60px;
+
+}
+
+#Third a{
+    text-decoration: none;
+    border: 1.5px solid  #1D809F ;
+    background-color: #1D809F;
+    border-radius: 5px;
+    padding: 25px 45px;
+    color: #fff;
+    transition: 0.5s;
+}
